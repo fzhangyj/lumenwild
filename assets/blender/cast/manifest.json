@@ -1,0 +1,163 @@
+[
+	{
+		"file": "character_00",
+		"hair": "crop",
+		"id": 0,
+		"name": "岚羽",
+		"outfit": "courier"
+	},
+	{
+		"file": "character_01",
+		"hair": "spike",
+		"id": 1,
+		"name": "朱烬",
+		"outfit": "smith"
+	},
+	{
+		"file": "character_02",
+		"hair": "wave",
+		"id": 2,
+		"name": "澜音",
+		"outfit": "singer"
+	},
+	{
+		"file": "character_03",
+		"hair": "side",
+		"id": 3,
+		"name": "霁霆",
+		"outfit": "officer"
+	},
+	{
+		"file": "character_04",
+		"hair": "swept",
+		"id": 4,
+		"name": "砾川",
+		"outfit": "guardian"
+	},
+	{
+		"file": "character_05",
+		"hair": "pony",
+		"id": 5,
+		"name": "栖月",
+		"outfit": "navigator"
+	},
+	{
+		"file": "character_06",
+		"hair": "flare",
+		"id": 6,
+		"name": "绯曜",
+		"outfit": "duelist"
+	},
+	{
+		"file": "character_07",
+		"hair": "side",
+		"id": 7,
+		"name": "镜夜",
+		"outfit": "officer"
+	},
+	{
+		"file": "character_08",
+		"hair": "braids",
+		"id": 8,
+		"name": "沧璃",
+		"outfit": "captain"
+	},
+	{
+		"file": "character_09",
+		"hair": "bun",
+		"id": 9,
+		"name": "砚山",
+		"outfit": "scholar"
+	},
+	{
+		"file": "character_10",
+		"hair": "crop",
+		"id": 10,
+		"name": "烬翎",
+		"outfit": "courier"
+	},
+	{
+		"file": "character_11",
+		"hair": "straight",
+		"id": 11,
+		"name": "霜汐",
+		"outfit": "singer"
+	},
+	{
+		"file": "character_12",
+		"hair": "shag",
+		"id": 12,
+		"name": "朔风",
+		"outfit": "ranger"
+	},
+	{
+		"file": "character_13",
+		"hair": "swept",
+		"id": 13,
+		"name": "玄霆",
+		"outfit": "guardian"
+	},
+	{
+		"file": "character_14",
+		"hair": "twin",
+		"id": 14,
+		"name": "曜岚",
+		"outfit": "navigator"
+	},
+	{
+		"file": "character_15",
+		"hair": "bun",
+		"id": 15,
+		"name": "丹砂",
+		"outfit": "scholar"
+	},
+	{
+		"file": "character_16",
+		"hair": "spike",
+		"id": 16,
+		"name": "燎原",
+		"outfit": "duelist"
+	},
+	{
+		"file": "character_17",
+		"hair": "braids",
+		"id": 17,
+		"name": "丝萝",
+		"outfit": "druid"
+	},
+	{
+		"file": "character_18",
+		"hair": "shag",
+		"id": 18,
+		"name": "珀砂",
+		"outfit": "smith"
+	},
+	{
+		"file": "character_19",
+		"hair": "side",
+		"id": 19,
+		"name": "溟弦",
+		"outfit": "scholar"
+	},
+	{
+		"file": "character_20",
+		"hair": "wave",
+		"id": 20,
+		"name": "昭璃",
+		"outfit": "singer"
+	},
+	{
+		"file": "character_21",
+		"hair": "straight",
+		"id": 21,
+		"name": "夜弦",
+		"outfit": "officer"
+	},
+	{
+		"file": "character_22",
+		"hair": "twin",
+		"id": 22,
+		"name": "青羽",
+		"outfit": "ranger"
+	}
+]
